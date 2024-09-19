@@ -48,6 +48,8 @@ Future Improvements
 • Implement user accounts for saving favorite cities and image categories.
 • Include more detailed weather information such as forecasts.
 • Improve error handling and user feedback.
+
+
 Conclusion
 This web application offers users the functionality to check current weather conditions for any city and 
 browse visually appealing images based on selected categories. Users can:
